@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# Frist Nedd to install `npm`
+in command line run `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
